@@ -7,7 +7,7 @@
 
 ## Description
 
-YouTube Video Downloader is a Java-based desktop application built with Swing that allows users to download videos and audio from YouTube using the yt-dlp library. It provides a simple and easy-to-use interface for downloading individual videos or entire playlists, with options for video quality, subtitles, and audio formats.
+YouTube Video Downloader is a Java-based desktop application that allows users to easily download YouTube videos and audio. Built with Swing and using the yt-dlp library, it provides a user-friendly interface for downloading individual videos, playlists, or extracting audio in MP3 format. Features include customizable video resolution, audio quality options, subtitle downloads, and flexible output directories. This tool is designed for quick, efficient content downloading from YouTube.
 
 ## Features
 
